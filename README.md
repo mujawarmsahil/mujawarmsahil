@@ -21,8 +21,8 @@
   ## 🔗 More Links  
   🔹 **LeetCode Profile:** [sahil_mujawar28](https://leetcode.com/sahil_mujawar28/)  
   🔹 **GitHub Profile:** [mujawarmsahil](https://github.com/mujawarmsahil)  
-  🔹 **GitHub Stats:**  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mujawarmsahil&show_icons=true&theme=react)  
+  <!--  🔹 **GitHub Stats:**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mujawarmsahil&show_icons=true&theme=react)  -->
 
   🔹 **Top Languages:**  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mujawarmsahil&layout=compact&theme=react)  
